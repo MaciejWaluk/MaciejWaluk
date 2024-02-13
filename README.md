@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maciej</h1>
-<h3 align="left">Third-year Computer Science student at the University of Technology in Białystok. Driven by a passion for web development and AI, I seek to apply my knowledge in an environment where I can build innovative web experiences and leverage the power of artificial intelligence.</h3>
+<h3 align="justify">Third-year Computer Science student at the University of Technology in Białystok. Driven by a passion for web development and AI, I seek to apply my knowledge in an environment where I can build innovative web experiences and leverage the power of artificial intelligence.</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
